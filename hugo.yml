@@ -2,3 +2,4 @@ baseURL: ""
 languageCode: en-us
 title: Puyuan's Blog
 theme: PaperMod
+publishDir: puyuanblogs.github.io
